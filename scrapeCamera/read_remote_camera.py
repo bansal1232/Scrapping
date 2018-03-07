@@ -3,6 +3,7 @@
 
 import sys
 import urllib
+import numpy as np
 from urllib.request import urlopen
 from PIL import Image
 from skimage import io
